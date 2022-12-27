@@ -11,7 +11,7 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Mansi.
 
 <details>
 <summary>My top languages</summary>
